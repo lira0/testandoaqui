@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="comedia", O Pacote
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1161&authkey=!ALWcyyMbuSrNZMY
+
+#EXTINF:-1 tvg-logo="" group-title="comedia", Superlopez
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1163&authkey=!AJMy_YWaO7lbIss
+
+#EXTINF:-1 tvg-logo="" group-title="acao", Agente do Futuro
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1205&authkey=!AICyQG0C23eZ_Hs
+
+#EXTINF:-1 tvg-logo="" group-title="ficção científica", De Volta Para o Futuro
+https://onedrive.live.com/download?resid=1C08357F9036C2F6%211204&authkey=!AMAF36m-o8-TkYs
+
+#EXTINF:-1 tvg-logo="" group-title="fantasia", Lobo Adolescente - O Garoto do Futuro
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1203&authkey=!AGj1r6iNeqIAgZ4
+
+#EXTINF:-1 tvg-logo="" group-title="acao", Três Homens em Conflito
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1212&authkey=!AAx5DtVTs6hi_kk
+
+#EXTINF:-1 tvg-logo="" group-title="ficção científica", Viagem Ao Centro da Terra
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1237&authkey=!AOJ42aIcHiLXmOo
+
+#EXTINF:-1 tvg-logo="" group-title="ficção científica", O Núcleo - Missão ao Centro Da Terra
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1240&authkey=!AAc6t7L1rT-A26Y
+
 #EXTINF:-1 tvg-logo="" group-title="acao", Busca Implacável
 https://onedrive.live.com/download?resid=1C08357F9036C2F6!1417&authkey=!AA_FuORwOvH-s78
 
@@ -369,6 +393,8 @@ https://onedrive.live.com/download?resid=1C08357F9036C2F6!175&authkey=!AGk0_QYPt
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LJh9ZJ9/image.png" group-title="ficção científica",O Exterminador do Futuro - A salvação
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ficção científica",O Exterminador Do Futuro: Gênesis
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1238&authkey=!ANE6RgM3EW8Bu1c
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="infantil",Tom e Jerry - O Anel Mágico
 https://onedrive.live.com/download?resid=1C08357F9036C2F6!709&authkey=!APpPmAwdWYPayLQ
