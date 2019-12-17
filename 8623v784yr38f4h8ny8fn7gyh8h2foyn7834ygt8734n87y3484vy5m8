@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="acao", Busca Implacável
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1417&authkey=!AA_FuORwOvH-s78
+
+#EXTINF:-1 tvg-logo="" group-title="acao", Busca Implacável 2
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1374&authkey=!ANJoioSLIdRvVmk
+
+#EXTINF:-1 tvg-logo="" group-title="acao", Busca Implacável 3
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1379&authkey=!ACp-9bEEQvaaicI
+
+#EXTINF:-1 tvg-logo="" group-title="comedia", As Trapaceiras
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1375&authkey=!AOmmoO1SGKvIj4U
+
+#EXTINF:-1 tvg-logo="" group-title="acao", Esquadrão Classe A
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1372&authkey=!ABPisPRtPZFRrZM
+
+#EXTINF:-1 tvg-logo="" group-title="drama", Ad Astra - Rumo às Estrelas
+https://onedrive.live.com/download?resid=1C08357F9036C2F6%211371&&authkey=!ANIO6_UmEgpE9Pc
+
+#EXTINF:-1 tvg-logo="" group-title="animacao", Moana: Um Mar de Aventuras
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1392&authkey=!AGCyrv1zw7zqADY
+
+#EXTINF:-1 tvg-logo="" group-title="acao", Duro de Matar
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1370&authkey=!AJir6WwWEsuhlf8
+
+#EXTINF:-1 tvg-logo="" group-title="acao", Duro de Matar 2
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1366&authkey=!AJWILzEsp93VEOI
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w342/ecjXYFzc11nhGO0JqYunBBOfK8v.jpg" group-title="animacao", Era do Gelo
 https://onedrive.live.com/download?resid=1C08357F9036C2F6!1341&authkey=!AFJfaAhXNPrizcY
 
@@ -216,6 +243,9 @@ https://onedrive.live.com/download?resid=1C08357F9036C2F6%21710&authkey=!AHRf2OU
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXTbmgn/Sem-t-tulo.png" group-title="comedia", Crush a Altura
 https://onedrive.live.com/download?resid=1C08357F9036C2F6!886&authkey=!AFu7o7uy2YrCq8g
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kXTbmgn/Sem-t-tulo.png" group-title="comedia", Crush a Altura [mp4]
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1393&authkey=!AEtvbBfZywoaxkU
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sC96fWV/image.png" group-title="comedia", Até o Fundo
 https://onedrive.live.com/download?resid=1C08357F9036C2F6%211040&authkey=!AJGkbdv_hFy3eOU
