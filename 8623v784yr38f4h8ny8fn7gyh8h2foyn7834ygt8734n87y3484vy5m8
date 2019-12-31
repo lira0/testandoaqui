@@ -1,7 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner: Correr ou Morrer" tvg-logo="https://i.ibb.co/415tqDN/image.png" group-title="acao",Maze Runner: Correr ou Morrer
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1521&authkey=!ABGREkVWLeinIjA
+
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner: A Cura Mortal" tvg-logo="https://i.ibb.co/qWHncsC/image.png" group-title="acao",Maze Runner: A Cura Mortal
+https://onedrive.live.com/download?resid=1C08357F9036C2F6%211519&authkey=!ANwYBkQ_NUbsS_8
+
 #EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro" tvg-logo="https://i.ibb.co/KmfQX1r/man-iron.jpg" group-title="acao",Homem de Ferro
+https://onedrive.live.com/download?resid=1C08357F9036C2F6%211897&authkey=!AF8cmk8CP4FltV4
+
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 2" tvg-logo="https://i.ibb.co/g7wT6nF/image.png" group-title="acao",Homem de Ferro 2
+https://onedrive.live.com/download?resid=1C08357F9036C2F6%211898&authkey=!AOTiOFFq6uuNDJs
+
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 3" tvg-logo="https://i.ibb.co/NrpPfqx/image.png" group-title="acao",Homem de Ferro 3
 https://onedrive.live.com/download?resid=1C08357F9036C2F6%211899&authkey=!APoOY-umLFO6_rU
+
+#EXTINF:-1 tvg-id="" tvg-name="Kronos O Fim Da Humanidade?" tvg-logo="https://i.ibb.co/YjQS1SQ/image.png" group-title="acao",Kronos O Fim Da Humanidade?
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1517&authkey=!AJq0s9i5MOtg1Js
 
 #EXTINF:-1 tvg-id="" tvg-name="Por um Punhado de Dólares" tvg-logo="https://image.tmdb.org/t/p/w342/9gI4L9vURUn8Mp4nxvW9nYyM5Ag.jpg" group-title="acao", Por um Punhado de Dólares
 https://onedrive.live.com/download?resid=1C08357F9036C2F6!1160&authkey=!AFuVi1WT6U7ylAw
@@ -333,6 +348,9 @@ https://onedrive.live.com/download?resid=1C08357F9036C2F6!695&authkey=!ANlH14tps
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL3r3RH/image.png" group-title="acao", Matrix Reloaded
 https://onedrive.live.com/download?resid=1C08357F9036C2F6!696&authkey=!ANV6letTCUX0Tnc
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mSsvnNK/image.png" group-title="acao", Matrix Revolutions
+https://onedrive.live.com/download?resid=1C08357F9036C2F6!1518&authkey=!AKxKF8vGmWz1dxM
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VR0v89/image.png" group-title="animacao", Rei Leão
 https://onedrive.live.com/download?resid=1C08357F9036C2F6!656&authkey=!AMJhKML5cfRZpRQ
